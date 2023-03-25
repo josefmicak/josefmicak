@@ -8,6 +8,7 @@
 📧 Email address: <a href="mailto:micak.josef@email.cz" title="micak.josef@email.cz">micak.josef@email.cz</a>
 <p><img style="vertical-align: top" src="https://user-images.githubusercontent.com/71832264/227712185-f599b3b3-d870-47a0-90b6-1d3a8e271cbd.svg" alt="linkedin" width="15" height="15"> LinkedIn profile: <a href="https://www.linkedin.com/in/josefmicak/" title="linkedin.com/in/josefmicak/">linkedin.com/in/josefmicak/</a></p>
 <h2>Statistics:</h2>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josefmicak&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
