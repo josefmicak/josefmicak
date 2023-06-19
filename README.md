@@ -1,8 +1,8 @@
 <h1 align="center">Josef Micak</h1>
 <h2>About me:</h2>
-🎓 I'm a computer science graduate student at VSB - Technical University of Ostrava<br>
+🎓 I'm a graduate of VSB – Technical University of Ostrava, field of study Computer science and Technology.<br>
 🖥 I'm a software developer. My most used programming language is C#, besides this language I'm also familiar with other languages such as Java, Python, SQL, JavaScript, HTML, CSS and more<br>
-💼 I'm currently working on finishing my master's thesis, <i>Web tool for Exam Questions with AI elements</i> (<a href="https://github.com/josefmicak/edu-enhancer" title="link to repository here">link to repository here</a>)<br>
+💼 My largest C# projects: <a href="https://github.com/josefmicak/edu-enhancer" title="Web platform for Exam Questions with Usage of AI Elements">Web platform for Exam Questions with Usage of AI Elements</a> (master's thesis), <a href="https://github.com/josefmicak/chinese-checkers" title="Chinese Checkers">Chinese Checkers</a> (bachelor's thesis)<br>
 🌐 I'm a native Czech speaker and I speak English fluently (C1 level). I also know the basics of Polish and German<br>
 <h2>Contact me:</h2>
 📧 Email address: <a href="mailto:micak.josef@email.cz" title="micak.josef@email.cz">micak.josef@email.cz</a>
